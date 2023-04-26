@@ -10,6 +10,5 @@
 - CSS
 - javaScript
 
-## 🎓 Instrutores
+## 🎓 Instrutor
  - Renan Johannsen
- 

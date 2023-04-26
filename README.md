@@ -11,4 +11,5 @@
 - javaScript
 
 ## 🎓 Instrutores
- - Thiago Leite
+ - Renan Johannsen
+ 
